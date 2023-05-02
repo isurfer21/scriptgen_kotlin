@@ -68,10 +68,10 @@ java -jar ScriptGen.jar -h
 
 #### Important Note
 
-| Distributed build for | Compatible & works with |
-|-----------------------|-------------------------|
-| Kotlin                | Only Kotlin             |
-| Java                  | Both (Kotlin & Java)    |
+| Distributed build for | Compatible & works with | Due to difference |
+|-----------------------|-------------------------|-------------------|
+| Kotlin                | Only Kotlin             |                   |
+| Java                  | Both (Kotlin & Java)    | Includes runtime  |
 
 ## Usage
 
